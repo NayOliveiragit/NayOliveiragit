@@ -3,7 +3,7 @@ Sou desenvolvedora Wordpress e estudante de Engenharia da computação<p/>
 Gosto de desenvolver tanto front / backend , desenvolvimento de projetos e gestão dos mesmos.<p/>
 
 :book: Liguagens que eu estudo são :<p/>
-:earth_americas: : PHP para Web <p/> 
+:earth_americas: : PHP para Web (wordpress/woocommerce e outros cms's baseados em PHP) <p/> 
 :computer: : Python para diversas aplicações <p/>
 :iphone: :   Dart + Flutter para Mobile <p/>
 :bar_chart: : Também desenvolvo com plataformas Low Code e No Code.<p/>
